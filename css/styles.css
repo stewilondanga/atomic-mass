@@ -247,14 +247,14 @@ body {
   color: #ff69b4
 }
 
-/*.complement .fas {
-    font-size: 0.6em;
-    position: absolute;
-    top: 5%;
-    right: 5%;
+#contact .complement .fas {
+  font-size: 0.6em;
+  position: absolute;
+  top: 5%;
+  right: 5%;
 }
 
-.table-element .name,
+/*.table-element .name,
 .table-element .atom-mass {
     visibility: hidden;
     position: absolute;
