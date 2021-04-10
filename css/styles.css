@@ -143,14 +143,14 @@ body {
   margin: 1.5em auto;
 }
 
-/*#pt-info {
-    position: relative;
-    top: 35px;
-    right: 35px;
-    transform: scale(1.25, 1.25);
+#contact #pt-info {
+  position: relative;
+  top: 35px;
+  right: 35px;
+  transform: scale(1.25, 1.25);
 }
 
-.blank {
+/*.blank {
     border: none;
     background-color: transparent;
 }
