@@ -205,11 +205,11 @@ body {
   border-color: #ff7f50;
 }
 
-/*.trans-metal {
-    border-color: #fafa41;
+.trans-metal {
+  border-color: #fafa41;
 }
 
-.basic-metal {
+/*.basic-metal {
     border-color: #00ff7f;
 }
 
