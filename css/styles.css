@@ -197,11 +197,11 @@ body {
   font-size: 0.85em;
 }
 
-/*.alka-metal {
-    border-color: #ff2550;
+.alka-metal {
+  border-color: #ff2550;
 }
 
-.alka-earth {
+/*.alka-earth {
     border-color: #ff7f50;
 }
 
