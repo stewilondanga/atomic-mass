@@ -25,7 +25,7 @@ body {
   display: inline-block;
   height: 42px;
   position: absolute;
-  top: 5%;
+  top: 125%;
   transform: translateY(-50%) translateX(-50%);
   -webkit-transform: translateY(-50%) translateX(-50%);
   -moz-transform: translateY(-50%) translateX(-50%);
