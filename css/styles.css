@@ -197,27 +197,27 @@ body {
   font-size: 0.85em;
 }
 
-.alka-metal {
+#contact .alka-metal {
   border-color: #ff2550;
 }
 
-.alka-earth {
+#contact .alka-earth {
   border-color: #ff7f50;
 }
 
-.trans-metal {
+#contact .trans-metal {
   border-color: #fafa41;
 }
 
-.basic-metal {
+#contact .basic-metal {
   border-color: #00ff7f;
 }
 
-/*.metalloid {
-    border-color: #87ceeb;
+#contact .metalloid {
+  border-color: #87ceeb;
 }
 
-.nonmetal {
+/*.nonmetal {
     border-color: #168bff;
 }
 
