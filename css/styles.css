@@ -1,4 +1,12 @@
 @import url("https://use.fontawesome.com/releases/v5.2.0/css/all.css");
+
+body {
+  margin: 0 auto;
+  padding: 0;
+  background-color: #555;
+  font-family: sans-serif;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -109,12 +117,6 @@
 }
 
 
-body {
-    margin: 0 auto;
-    padding: 0;
-    background-color: #555;
-    font-family: sans-serif;
-}
 
 #contact td {
     width: 70px;
