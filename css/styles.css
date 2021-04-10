@@ -217,11 +217,11 @@ body {
   border-color: #87ceeb;
 }
 
-/*.nonmetal {
-    border-color: #168bff;
+#contact .nonmetal {
+  border-color: #168bff;
 }
 
-.halogen {
+/*.halogen {
     border-color: #ee82ee;
 }
 
