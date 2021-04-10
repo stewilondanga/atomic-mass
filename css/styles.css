@@ -239,11 +239,11 @@ body {
   border-color: #ff69b4
 }
 
-/*.lanthanide .fa-asterisk {
-    color: #ffa7b5;
+#contact .lanthanide .fa-asterisk {
+  color: #ffa7b5;
 }
 
-.actinide .fa-asterisk {
+/*.actinide .fa-asterisk {
     color: #ff69b4
 }
 
