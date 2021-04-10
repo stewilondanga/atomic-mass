@@ -116,7 +116,7 @@ body {
     font-family: sans-serif;
 }
 
-td {
+#contact td {
     width: 70px;
     min-width: 70px;
     height: 70px;
@@ -268,7 +268,7 @@ td:hover {
     position: absolute;
 }
 
-#contact h1 {
+.containers h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
