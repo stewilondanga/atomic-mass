@@ -126,12 +126,12 @@ body {
   box-shadow: 0 0 1em 0 #fff;
 }
 
-/*.blank:hover,
+#contact .blank:hover,
 #pt-info:hover {
-    box-shadow: none;
+  box-shadow: none;
 }
 
-#periodic-table {
+/*#periodic-table {
     width: 100%;
     position: absolute;
     top: 50%;
