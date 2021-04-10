@@ -209,11 +209,11 @@ body {
   border-color: #fafa41;
 }
 
-/*.basic-metal {
-    border-color: #00ff7f;
+.basic-metal {
+  border-color: #00ff7f;
 }
 
-.metalloid {
+/*.metalloid {
     border-color: #87ceeb;
 }
 
