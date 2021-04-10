@@ -131,15 +131,15 @@ body {
   box-shadow: none;
 }
 
-/*#periodic-table {
-    width: 100%;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+#contact #periodic-table {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
-.per-table-components {
+/*.per-table-components {
     margin: 1.5em auto;
 }
 
