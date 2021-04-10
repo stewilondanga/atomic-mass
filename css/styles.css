@@ -229,12 +229,12 @@ body {
   border-color: #c042ff;
 }
 
-/*.lanthanide,
+#contact .lanthanide,
 .lanthanide .fa-asterisk {
-    border-color: #ffa7b5;
+  border-color: #ffa7b5;
 }
 
-.actinide,
+/* .actinide,
 .actinide .fa-asterisk {
     border-color: #ff69b4
 }
