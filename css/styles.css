@@ -139,11 +139,11 @@ body {
   transform: translate(-50%, -50%);
 }
 
-/*.per-table-components {
-    margin: 1.5em auto;
+#contact .per-table-components {
+  margin: 1.5em auto;
 }
 
-#pt-info {
+/*#pt-info {
     position: relative;
     top: 35px;
     right: 35px;
