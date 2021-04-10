@@ -171,15 +171,15 @@ body {
   left: 5%;
 }
 
-/*.element {
-    display: block;
-    font-size: 1em;
-    font-weight: bold;
-    position: relative;
-    top: 10%;
+#contact .element {
+  display: block;
+  font-size: 1em;
+  font-weight: bold;
+  position: relative;
+  top: 10%;
 }
 
-.name {
+/*.name {
     display: block;
     font-size: 0.6em;
     position: relative;
