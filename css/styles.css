@@ -243,11 +243,11 @@ body {
   color: #ffa7b5;
 }
 
-/*.actinide .fa-asterisk {
-    color: #ff69b4
+#contact .actinide .fa-asterisk {
+  color: #ff69b4
 }
 
-.complement .fas {
+/*.complement .fas {
     font-size: 0.6em;
     position: absolute;
     top: 5%;
