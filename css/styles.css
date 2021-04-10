@@ -193,11 +193,11 @@ body {
   top: 45%;
 }
 
-/*.fas {
-    font-size: 0.85em;
+#contact .fas {
+  font-size: 0.85em;
 }
 
-.alka-metal {
+/*.alka-metal {
     border-color: #ff2550;
 }
 
