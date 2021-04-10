@@ -179,14 +179,14 @@ body {
   top: 10%;
 }
 
-/*.name {
-    display: block;
-    font-size: 0.6em;
-    position: relative;
-    top: 32%;
+#contact .name {
+  display: block;
+  font-size: 0.6em;
+  position: relative;
+  top: 32%;
 }
 
-.atom-mass {
+/*.atom-mass {
     display: block;
     font-size: 0.6em;
     position: relative;
