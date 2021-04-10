@@ -225,11 +225,11 @@ body {
   border-color: #ee82ee;
 }
 
-/*.noble-gas {
-    border-color: #c042ff;
+#contact .noble-gas {
+  border-color: #c042ff;
 }
 
-.lanthanide,
+/*.lanthanide,
 .lanthanide .fa-asterisk {
     border-color: #ffa7b5;
 }
